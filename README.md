@@ -6,7 +6,7 @@
 <hr/>
 
 - 🔭 I’m currently working on a new Portfolio and various personal projects <br/> <br/>
-- 🌱 I’m currently learning React <br/> <br/>
+- 🌱 I’m currently studying the React - The Complete Guide on UDEMY <br/> <br/>
 - 👯 I’m looking to collaborate on amazing and cool projects with an awesome team <br/> <br/>
 - 🤔 I’m looking for help with learning Portuguese <br/> <br/>
 - 💬 Ask me about MOVIES! :clapper: <br/> <br/>
